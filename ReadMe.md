@@ -65,9 +65,9 @@ Hardware Overview
 	- Date Tue Jul 2 14:38:27 GMT 2024
 ```
 
-### Github Actions 
+### Github Actions (M1)
 
-<img width="1102" alt="Screenshot 2024-07-02 at 12 20 40 p m" src="https://github.com/OmarJalil/XcodeBenchmark/assets/25520015/67c1d790-dfa0-431e-828c-5f30ab3ffa78">
+<img width="1112" alt="Screenshot 2024-07-02 at 12 28 34 p m" src="https://github.com/OmarJalil/XcodeBenchmark/assets/25520015/c026e4d5-3c39-4644-a430-e399ac1fcc98">
 
 
 ```
