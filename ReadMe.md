@@ -65,6 +65,33 @@ Hardware Overview
 	- Date Tue Jul 2 14:38:27 GMT 2024
 ```
 
+### CircleCI (M1 Medium)
+
+<img width="1164" alt="Screenshot 2024-07-02 at 1 04 19 p m" src="https://github.com/OmarJalil/XcodeBenchmark/assets/25520015/7b042f97-9ce3-4561-a91d-66842f04661e">
+
+```
+** BUILD SUCCEEDED ** [251.206 sec]
+
+System Version: 14.3.1
+Xcode 15.4
+Hardware Overview
+      Model Name: Apple Virtual Machine 1
+      Model Identifier: VirtualMac2,1
+      Total Number of Cores: 4
+      Memory: 6 GB
+
+✅ XcodeBenchmark has completed
+1️⃣  Take a screenshot of this window (Cmd + Shift + 4 + Space) and resize to include:
+	- Build Time (See ** BUILD SUCCEEDED ** [XYZ sec])
+	- System Version
+	- Xcode Version
+	- Hardware Overview
+	- Started 15:54:57
+	- Ended   15:59:38
+	- Date Tue Jul 2 15:59:38 GMT 2024
+```
+
+
 ### Github Actions (M1)
 
 <img width="1112" alt="Screenshot 2024-07-02 at 12 28 34 p m" src="https://github.com/OmarJalil/XcodeBenchmark/assets/25520015/c026e4d5-3c39-4644-a430-e399ac1fcc98">
