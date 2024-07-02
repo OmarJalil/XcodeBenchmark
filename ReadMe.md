@@ -14,7 +14,7 @@ If a device you are looking for is not on the list below, check out open [issues
 
 ## CI/CD
 
-### Code Magic
+### Code Magic (Mac mini M1)
 
 <img width="1258" alt="Screenshot 2024-07-02 at 11 19 48 a m" src="https://github.com/OmarJalil/XcodeBenchmark/assets/25520015/ddbf8f24-4d9d-48fc-885f-e817000f8d3a">
 
@@ -38,6 +38,31 @@ Hardware Overview
 	- Started 14:14:30
 	- Ended   14:18:53
 	- Date Tue Jul 2 14:18:53 UTC 2024
+```
+
+### Bitrise (M2 Pro)
+
+<img width="1100" alt="Screenshot 2024-07-02 at 11 40 42 a m" src="https://github.com/OmarJalil/XcodeBenchmark/assets/25520015/ed44c344-bc13-4f1c-b801-dac4cd74cb69">
+
+
+```
+** BUILD SUCCEEDED ** [208.431 sec]
+System Version: 14.1.2
+Xcode 15.4
+Hardware Overview
+      Model Name: Apple Virtual Machine 1
+      Model Identifier: VirtualMac2,1
+      Total Number of Cores: 4
+      Memory: 6 GB
+✅ XcodeBenchmark has completed
+1️⃣  Take a screenshot of this window (Cmd + Shift + 4 + Space) and resize to include:
+	- Build Time (See ** BUILD SUCCEEDED ** [XYZ sec])
+	- System Version
+	- Xcode Version
+	- Hardware Overview
+	- Started 14:34:52
+	- Ended   14:38:27
+	- Date Tue Jul 2 14:38:27 GMT 2024
 ```
 
 ## Xcode 15
