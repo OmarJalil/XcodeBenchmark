@@ -65,6 +65,30 @@ Hardware Overview
 	- Date Tue Jul 2 14:38:27 GMT 2024
 ```
 
+### Github Actions 
+
+<img width="1102" alt="Screenshot 2024-07-02 at 12 20 40 p m" src="https://github.com/OmarJalil/XcodeBenchmark/assets/25520015/67c1d790-dfa0-431e-828c-5f30ab3ffa78">
+
+
+```
+** BUILD SUCCEEDED ** [995.251 sec]
+System Version: 14.5
+Xcode 15.0.1
+Hardware Overview
+	Model Name: Apple Virtual Machine 1
+	Model Identifier: VirtualMac2,1
+	Total Number of Cores: 3
+	Memory: 7 GB
+✅ XcodeBenchmark has completed
+1️⃣  Take a screenshot of this window (Cmd + Shift + 4 + Space) and resize to include:
+	- Build Time (See ** BUILD SUCCEEDED ** [XYZ sec])
+	- System Version
+	- Xcode Version
+	- Hardware Overview
+	- Started 14:56:24
+	- Ended   15:13:12
+```
+
 ## Xcode 15
 
 ```diff
