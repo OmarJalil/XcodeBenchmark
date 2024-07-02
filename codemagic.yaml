@@ -3,8 +3,6 @@ workflows:
     name: iOS Workflow
     instance_type: mac_mini_m1
     max_build_duration: 120
-    integrations:
-      app_store_connect: codemagic
     environment:
       xcode: latest # <-- set to specific version e.g. 14.3, 15.0 to avoid unexpected updates.
       cocoapods: default
