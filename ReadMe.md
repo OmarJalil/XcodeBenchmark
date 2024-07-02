@@ -11,6 +11,14 @@ I believe the results will help developers to make the right *cost/performance* 
 PR merging will be performed on a best-effort basis.  
 If a device you are looking for is not on the list below, check out open [issues](https://github.com/devMEremenko/XcodeBenchmark/issues) and [PRs](https://github.com/devMEremenko/XcodeBenchmark/pulls).
 
+
+## CI/CD
+
+### Code Magic
+
+<img width="1258" alt="Screenshot 2024-07-02 at 11 19 48 a m" src="https://github.com/OmarJalil/XcodeBenchmark/assets/25520015/ddbf8f24-4d9d-48fc-885f-e817000f8d3a">
+
+
 ## Xcode 15
 
 ```diff
